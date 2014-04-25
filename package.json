@@ -1,0 +1,23 @@
+{
+  "name": "zengrids-styleguide",
+  "version": "1.0.0",
+  "description": "The style guide for zengrids.com.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JohnAlbin/zengrids-styleguide.git"
+  },
+  "author": "Michael Mesker and John Albin Wilkins",
+  "license": "GPLv2",
+  "bugs": {
+    "url": "https://github.com/JohnAlbin/zengrids-styleguide/issues"
+  },
+  "homepage": "https://github.com/JohnAlbin/zengrids-styleguide",
+  "dependencies": {
+    "kss": "JohnAlbin/kss-node"
+  },
+  "devDependencies": {}
+}
